@@ -1,6 +1,8 @@
 <h1># Daily Learning
 
-<h2>## Morning Planning
+<h1>## Morning Planning
+  
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 <h2>## Review
 
